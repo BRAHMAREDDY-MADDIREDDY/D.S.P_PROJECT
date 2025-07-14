@@ -114,7 +114,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Optional: Grafana for Monitoring
+## 📊 Grafana for Monitoring
 
 - Use `Grafana` + `PostgreSQL` connection
 - Build dashboards for ingestion stats & alerts
