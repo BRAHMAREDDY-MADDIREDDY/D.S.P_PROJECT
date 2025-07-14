@@ -121,12 +121,3 @@ streamlit run app.py
 
 ---
 
-## ✅ Final Checklist Before Submission
-
-- [ ] Ingestion DAG working and validated
-- [ ] PostgreSQL tables populated
-- [ ] Bad data visible in `bad_data_table`
-- [ ] Great Expectations HTML reports generated
-- [ ] Streamlit UI loads successfully
-- [ ] FastAPI predicts on new input
-- [ ] README.md updated 
