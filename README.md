@@ -129,13 +129,4 @@ streamlit run app.py
 - [ ] Great Expectations HTML reports generated
 - [ ] Streamlit UI loads successfully
 - [ ] FastAPI predicts on new input
-- [ ] README.md updated ✔
-
----
-
-## 👨‍💻 Authors
-
-- Your Name
-- Supervisor: Prof. XYZ (if applicable)
-
----
+- [ ] README.md updated 
